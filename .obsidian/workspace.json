@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "9f09b67afac28921",
+    "type": "split",
+    "children": [
+      {
+        "id": "6579bb2af6f0a183",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "457121b6a1e428bc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "80cc9c44ae20669f",
+    "type": "split",
+    "children": [
+      {
+        "id": "7531931030ee10bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b53ceecd360da103",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c67ecd6d819130f4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "08899c0f142d9c7b",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "7f1eb7425fb6069f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "23a8f879bda72f27",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3010ba3e05ff4dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb09609ecc31b211",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for README"
+            }
+          },
+          {
+            "id": "4c2399bbed87f4c2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from README"
+            }
+          },
+          {
+            "id": "6cf21f4cfe98f4b4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3763fa13ef44b237",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "11df6f586e0c7dad",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "ee71df8453f3cbea",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "homepage:Open homepage": false,
+      "zk-prefixer:Create new unique note": false,
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "457121b6a1e428bc",
+  "lastOpenFiles": [
+    "06 - Daily/20241128.md",
+    "06 - Daily/Placeholder.md",
+    "00 - Maps of Content/Placeholder.md",
+    "202411281934.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Unique.md",
+    "99 - Meta/Preloaded Classes/202403091325 General Tweaks CSS Classes.md",
+    "99 - Meta/Preloaded Classes/202401211512 Notebook CSS Classes.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Daily.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Daily (Vanilla).md",
+    "99 - Meta/Preloaded Classes",
+    "99 - Meta/00 - Templates",
+    "99 - Meta",
+    "07 - Archives/Placeholder.md",
+    "07 - Archives",
+    "06 - Daily",
+    "05 - Fleeting/Placeholder.md",
+    "05 - Fleeting",
+    "04 - Permanent/Placeholder.md",
+    "04 - Permanent",
+    "03 - Resources/Placeholder.md",
+    "03 - Resources",
+    "01 - Projects/Placeholder.md",
+    "01 - Projects",
+    "00 - Maps of Content",
+    "Vault/99 - Meta/Preloaded Classes/202403091325 General Tweaks CSS Classes.md",
+    "Vault/99 - Meta/Preloaded Classes/202401211512 Notebook CSS Classes.md",
+    "Vault/99 - Meta/00 - Templates/(TEMPLATE) Unique.md",
+    "Vault/99 - Meta/00 - Templates/(TEMPLATE) Daily.md",
+    "Vault/99 - Meta/00 - Templates/(TEMPLATE) Daily (Vanilla).md",
+    "Vault/07 - Archives/Placeholder.md",
+    "Vault/06 - Daily/Placeholder.md",
+    "Vault/05 - Fleeting/Placeholder.md",
+    "Vault/04 - Permanent/Placeholder.md",
+    "Vault/03 - Resources/Placeholder.md",
+    "Vault/02 - Areas/Placeholder.md",
+    "Vault/01 - Projects/Placeholder.md"
+  ]
+}
